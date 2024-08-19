@@ -42,7 +42,8 @@ body{
 }
 
 .header ul li{
-    justify-content: space-around;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .header ul a{
@@ -50,7 +51,6 @@ body{
     text-decoration: none;
     color: #bccbde;
     font-weight: bold;
-
 }
 
 .nav {
